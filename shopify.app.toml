@@ -1,9 +1,9 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "7c3a389ed3915ea6415c18a1ef1f643c"
-name = "לןעךקר"
-handle = "api-client-2363"
-application_url = "https://your-app-name.up.railway.app"
+name = "kig"
+handle = "kig"
+application_url = "https://warm.up.railway.app"
 embedded = true
 
 [build]
@@ -25,7 +25,7 @@ api_version = "2025-04"
 scopes = "write_products"
 
 [auth]
-redirect_urls = [ "https://your-app-name.up.railway.app/api/auth" ]
+redirect_urls = [ "https://warm.up.railway.app/api/auth" ]
 
 [pos]
 embedded = false
